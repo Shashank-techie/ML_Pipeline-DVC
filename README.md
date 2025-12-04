@@ -31,7 +31,7 @@ You can try the deployed CPU Predictor web application here:
 <img width="1909" height="865" alt="image" src="https://github.com/user-attachments/assets/cb779432-db88-48b3-87e8-9092084b3666" />
 
 
-🔗 **Live App:** [http://cpu-predictor-new.purplestone-5673d9e8.centralindia.azurecontainerapps.io/](http://cpu-predictor-new.purplestone-5673d9e8.centralindia.azurecontainerapps.io/)
+🔗 **Live App:** [https://cpu-usage-prediction.orangesky-f4095557.centralindia.azurecontainerapps.io/](https://cpu-usage-prediction.orangesky-f4095557.centralindia.azurecontainerapps.io)
 
 This demo is hosted on **Azure Container Apps**, fully containerized using **Docker**, and powered by the trained ML models tracked with **DVC**.  
 Use the UI to input values and get real-time CPU performance predictions.
@@ -98,7 +98,7 @@ mlops-assignment-dvc/
 ### Local Setup  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Sayan-Mondal2022/mlops-assignment-dvc.git
+   git clone https://github.com/Shashank-techie/ML_Pipeline-DVC.git
    cd mlops-assignment-dvc
     ```
 
