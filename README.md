@@ -21,7 +21,7 @@ This project is done **solely for learning purposes**.
 You can try the deployed CPU Predictor web application here:
 
 ***Dashboard***
-<img width="1911" height="986" alt="image" src="https://github.com/user-attachments/assets/99265af8-f15a-4b0e-8061-3646245d47cb" />
+<img width="1911" height="986" alt="image" src="[https://github.com/user-attachments/assets/99265af8-f15a-4b0e-8061-3646245d47cb](https://cpu-usage-prediction.orangesky-f4095557.centralindia.azurecontainerapps.io/#model-dashboard)" />
 
 ***Individual Model data***
 <img width="1920" height="992" alt="image" src="https://github.com/user-attachments/assets/71b3b13d-c147-4653-8d09-9a98ac890de8" />
